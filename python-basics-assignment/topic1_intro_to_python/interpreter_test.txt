@@ -1,1 +1,9 @@
 
+>>> print("Hello from the interpreter!")
+Hello from the interpreter!
+>>> 2 + 3
+5
+>>> name = "Anshi"
+>>> print("Hello", name)
+Hello Anshi
+
